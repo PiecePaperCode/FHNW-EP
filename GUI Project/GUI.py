@@ -1,7 +1,7 @@
 from tkinter import *
 from tkinter import messagebox
 from functools import partial
-from Projekt.Filehandler import write_Basisroutine, read_Basisroutine
+from Filehandler import write_Basisroutine, read_Basisroutine
 
 
 # Messagebox with custom Message text
