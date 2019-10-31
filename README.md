@@ -1,7 +1,7 @@
 # FHNW EP Project
 ### FHNW Einführung in die Programmierung Project
 
-###Projekt  
+### Projekt  
 • Erstellen von einem Programm mit GUI  
 • GUI-Paket: tkinter  
 • Zwei Buttons, die jeweils eine MessageBox mit unterschiedlichen Texten öffnen  
@@ -13,7 +13,7 @@
 • Button für die Bearbeitung der Grundroutine  
 • Neues Fenster in dem Inhalt von Textfile geändert werden kann.  
 
-###Projektrahmen  
+### Projektrahmen  
 • Verwendung von Schleifen für die Generierung der Buttons  
 • Name von Button soll an die auszuführende Funktion als Parameter übergeben werden  
 • Verwendung von eigenen Funktionen  
